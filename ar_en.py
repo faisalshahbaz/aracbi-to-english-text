@@ -1,4 +1,5 @@
 #pip install googletrans
+#pip install langdetect
 
 from googletrans import Translator
 translator = Translator(service_urls=[
