@@ -1,6 +1,6 @@
 #pip install googletrans
 #pip install langdetect
-
+#https://py-googletrans.readthedocs.io/en/latest/
 from googletrans import Translator
 translator = Translator(service_urls=[
       'translate.google.com'])
